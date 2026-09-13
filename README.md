@@ -18,8 +18,9 @@ All assets/nodes should...
 8) ...not rely on any external dependencies or services, such as Wi-Fi, Cloud Services, or power grids. (GNSS satellites are used, but not relied on 100%.)
 9) ...not be reliant on any single point of failure. Any failure should be isolated to a single node or component, and the system should continue to function normally.
 10) ...be durable, resilient, and able to withstand extreme conditions. They should also meet/exceed the relevant standards such as waterproofing (normally >= IPX7), dustproofing, and other safety standards.
+11) ...include its own documentation to enable effective reconstruction and maintenance, should the resources be available and the need arise. The documentation should be clear, concise, and easy to understand. It can be stored digitally or as a printed manual.
 
 ## List of Nodes & Assets
 
-- **X** Portable, Solar Powered, Mesh Radio System
-- **X** Lightweight, Solar-powered, radio-enabled Cyber Deck
+- **X** Portable, Solar-powered, Mesh Radio System
+- **X** Lightweight, Solar-powered, Radio-enabled Cyber Deck
